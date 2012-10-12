@@ -1,0 +1,24 @@
+.next-icon
+{
+	background-image: url(../css/images/next.png); 
+	width: 30px !important;
+	height: 30px !important;
+	background-position:center center;
+}
+.prev-icon
+{
+	background-image: url(../css/images/prev.png)	  ;
+	width: 30px !important;
+	height: 30px !important;
+	background-position:center center;
+}
+.ext-cal-nav-picker .x-datepicker-footer .x-btn
+{
+	width: 90%;
+	height: 30px;
+}
+.ext-cal-nav-picker .x-datepicker-footer .x-btn span.x-btn-inner
+{
+	font-size:14px !important;
+	height: 20px;
+}
